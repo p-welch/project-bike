@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1492458644 source:d:\course work\cs251\zyante projects\project6\cbp\divvy graph\graph.cpp
+	<iostream>
+	<set>
+	<queue>
+	"graph.h"
+
+1492458644 d:\course work\cs251\zyante projects\project6\cbp\divvy graph\graph.h
+	<string>
+	<vector>
+	<set>
+
+1492457326 source:d:\course work\cs251\zyante projects\project6\cbp\divvy graph\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<set>
+	<vector>
+	<algorithm>
+	"graph.h"
+
+1492465844 source:c:\users\patrickwelch\documents\to be sorted\sd card copy course work\cs251\zyante projects\project6\cbp\divvy graph\graph.cpp
+	<iostream>
+	<set>
+	<queue>
+	"graph.h"
+
+1492465844 c:\users\patrickwelch\documents\to be sorted\sd card copy course work\cs251\zyante projects\project6\cbp\divvy graph\graph.h
+	<string>
+	<vector>
+	<set>
+
+1492470920 source:c:\users\patrickwelch\documents\to be sorted\sd card copy course work\cs251\zyante projects\project6\cbp\divvy graph\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<set>
+	<vector>
+	<algorithm>
+	"graph.h"
+
